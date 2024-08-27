@@ -22,7 +22,7 @@
 `Android`, `Kotlin`, `AAC ViewModel` , `MVVM`, `Compose`, `Git`, `Github`, `Retrofit2`, `viewBinding` 
 
 ### 사용 경험 기술
-`LiveDate`, `Coroutine`, `Flow`, `Hilt`, `Coil`, `Glide`
+`LiveData`, `Coroutine`, `Flow`, `Hilt`, `Coil`, `Glide`
 
 ### 상세 기술 설명
 - **Android Native 앱 개발**: Kotlin 을 사용하여 Android Native 앱 개발
