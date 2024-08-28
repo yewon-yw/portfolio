@@ -2,15 +2,15 @@
 
 ### 목차
 
-- [프로필 변경](#-프로필-변경)
+- [프로필 변경](#프로필-변경)
 
-- [비밀번호 변경](#-비밀번호-변경)
+- [비밀번호 변경](#비밀번호-변경)
 
-- [로그아웃](#-로그아웃)
+- [로그아웃](#로그아웃)
 
 <br>
 
-## ⭐️프로필 변경
+## <a name="프로필-변경"></a>⭐️ 프로필 변경
 
 <img src="https://github.com/user-attachments/assets/bc73e092-de76-4a7f-808d-80ee8bbaaa3d" alt="프로필변경" width="30%">
 
@@ -32,7 +32,7 @@
 
 <br>
 
-## ⭐️비밀번호 변경
+## <a name="비밀번호-변경"></a>⭐️ 비밀번호 변경
 
 <img src="https://github.com/user-attachments/assets/6ef7ebd5-9152-4cd2-b14a-d1a1a2bf9442" alt="비밀번호변경" width="30%">
 
@@ -52,7 +52,7 @@
 
 <br>
 
-## ⭐️로그아웃
+## <a name="로그아웃"></a>⭐️ 로그아웃
 
 <img src="https://github.com/user-attachments/assets/21958989-1c42-43d7-bdbe-8c0d523f7f36" alt="로그아웃" width="30%">
 
