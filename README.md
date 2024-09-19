@@ -46,7 +46,7 @@
 - 팀 구성: BE(5명), Android(4명), PM(1명), Design(1명)
 - 역할: Android 개발
 - 참여 기간: 2024.01 ~ 진행 중
-- 기술 스택: Kotlin, Retrofit2, MVVM, Git, GitHub, Jira, Flow, Hilt
+- 기술 스택: Kotlin, Compose, Retrofit2, MVVM, Git, GitHub, Jira, Flow, Hilt
 
 **주요 기능**
 - 회원가입, 로그인, 소셜 로그인
