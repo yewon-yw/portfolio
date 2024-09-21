@@ -42,7 +42,7 @@
 ### 🧑‍🧑‍🧒‍ Family Moments
 #### 가족의 소중한 순간을 사진으로 공유하고 소통하는 커뮤니티 서비스
 - GitHub: https://github.com/yewon-yw/family-moments-android/tree/develop
-- Play Store: 9월 배포 예정
+- Play Store: https://play.google.com/store/apps/details?id=io.familymoments.app
 - 팀 구성: BE(5명), Android(4명), PM(1명), Design(1명)
 - 역할: Android 개발
 - 참여 기간: 2024.01 ~ 진행 중
