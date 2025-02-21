@@ -14,6 +14,8 @@
 
 - Blog: https://devyewon.tistory.com/
 
+- Notion: [Android 공부 기록](https://graceful-coriander-375.notion.site/194790a3437d808c9856ff2a59a0dd1a?pvs=4)
+
 <br>
 
 ## 💻 Skills
@@ -42,10 +44,10 @@
 ### 🧑‍🧑‍🧒‍ Family Moments
 #### 가족의 소중한 순간을 사진으로 공유하고 소통하는 커뮤니티 서비스
 - GitHub: https://github.com/yewon-yw/family-moments-android/tree/develop
-- Play Store: https://play.google.com/store/apps/details?id=io.familymoments.app
+- Play Store: 2024.12 서비스 종료
 - 팀 구성: BE(5명), Android(4명), PM(1명), Design(1명)
 - 역할: Android 개발
-- 참여 기간: 2024.01 ~ 진행 중
+- 참여 기간: 2024.01 ~ 2024.12
 - 기술 스택: Kotlin, Compose, Retrofit2, MVVM, Git, GitHub, Jira, Flow, Hilt
 
 **주요 기능**
@@ -56,10 +58,36 @@
 - 프로필 변경, 비밀번호 변경, 로그아웃, 회원 탈퇴, 유저 신고
 - 가족 설정 : 가족 정보 수정, 초대, 알림 주기 변경, 권한 넘기기, 가족 강퇴 / 탈퇴 / 삭제 
 
-**기여 내용**
+**프로젝트 기여 내용**
 
 | 제목    | 설명                                  | 링크       |
 |-------|-------------------------------------|----------|
 | 마이페이지 | 프로필 변경, 비밀번호 변경, 로그아웃 기능 구현         | [상세 보기](page/projects/family_moments/mypage.md) |
 | 가족 설정 | 가족 정보 수정, 알림 주기 변경, 권한 넘기기, 가족 강퇴/탈퇴/삭제 기능 구현 | [상세 보기](page/projects/family_moments/familysettings.md) |
 | 홈 화면  | 유저 신고 기능 구현                         | [상세 보기](page/projects/family_moments/home.md) | 
+
+<br>
+
+
+### 🍌 what the banana
+#### 자유로운 아이디어를 구현한 어플
+- GitHub: https://github.com/Droid-People/Untitled
+- Play Store: https://play.google.com/store/apps/details?id=people.droid.untitled
+- 팀 구성: Android(3명)
+- 역할: Android 개발
+- 참여 기간: 2024.11 ~
+- 기술 스택: Kotlin, Compose, Multi-Module, Git, Firebase, Admob
+
+**주요 기능**
+- 픽셀 그림판, 숫자 퍼즐, 룰렛 등 간단하면서 재미있는 기능 제공
+- 사용자가 개발자에게 직접 피드백을 보낼 수 있는 기능 제공
+- 사용자의 광고 시청을 유도하는 화면
+
+**프로젝트 기여 내용**
+- Play Store 배포 및 지속적인 업데이트 진행
+- Firebase Crashlytics를 활용하여 앱 비정상 종료 로그 모니터링
+- Multi-Module 구조를 적용해 코드 간 의존성 감소 및 유지보수성 향상
+- Admob을 활용하여 다양한 광고 유형(배너, 전면, 네이티브)을 적용
+- 현재 Android 프로젝트를 Flutter로 이전중
+
+<br>
